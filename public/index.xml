@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stratum</title>
+    <link>https://stratum-mining.github.io/</link>
+    <description>Recent content on Stratum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stratum-mining.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://stratum-mining.github.io/posts/start/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stratum-mining.github.io/posts/start/</guid>
+      <description>fn main() { println!(&amp;#34;Hello World!&amp;#34;); }  </description>
+    </item>
+    
+    <item>
+      <title>Milestones/Roadmap</title>
+      <link>https://stratum-mining.github.io/milestones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stratum-mining.github.io/milestones/</guid>
+      <description>Write project&amp;rsquo;s milestones (~15 February 2021) Style and structure of the Sv2 repo decided and documented (~15 February 2021) Create github organization (~15 February 2021) Create github page with blog and track record for Sv2 (~1 March 2021) Create style.md contribute.md and architecture.md (~1 March 2021) (everything in readme for now) Publish version 0.1.0 of Sv2 noise authentication on crates.io (~15 April 2021) Publish version 0.1.0 of Template Distribution Protocol on crates.</description>
+    </item>
+    
+  </channel>
+</rss>

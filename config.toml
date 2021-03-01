@@ -1,0 +1,24 @@
+baseURL = "https://stratum-mining.github.io/"
+languageCode = "en-us"
+title = "Stratum"
+theme = "fuji"
+disableKinds = ["taxonomy", "term"]
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+  [[menu.nav]]
+    name = "Milestones"
+    url = "/milestones/"
+    weight = 3
+
+  [[menu.link]]
+    name = "GitHub"
+    url = "https://github.com/stratum-mining/stratum"
+    weight = 1
