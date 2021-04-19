@@ -17,9 +17,8 @@ showToc: false
 - [ ] Implementation of Template Provider in bitcoin (~1 June 2021)
 - [ ] Publish version 1.0.0 of Sv2 noise authentication on crates.io (~1 June 2021)
 - [ ] Publish version 1.0.0 of Template Distribution Protocol on crates.io (~1 June 2021)
-- [ ] Publish version 1.0.0 of Mining Protocol on crates.io (~1 June 2021)
 - [ ] PR on bitcoin core (~1 June 2021)
-- [ ] Publish version 0.1.0 of Mining Protocol on crates.io (~15 July 2021)
+- [ ] Publish version 1.0.0 of Mining Protocol on crates.io (~15 July 2021)
 - [ ] Publish version 1.0.0 of Job Negotiation Protocol on crates.io (~15 July 2021)
 - [ ] Publish version 1.0.0 of Mining Device on crates.io (~1 September 2021)
   * it is both a library and a binary crate
